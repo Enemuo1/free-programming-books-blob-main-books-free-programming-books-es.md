@@ -350,7 +350,7 @@
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
 * [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
-* [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
+* [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF) (CC BY)
 
 
 #### Django
